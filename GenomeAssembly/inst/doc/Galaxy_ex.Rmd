@@ -30,7 +30,7 @@ cat('For a detailed explanation of the exercises review the second session of th
 
 ```
 
-First of all you need to create a Galaxy account in the EU mirror https://usegalaxy.eu/.
+First of all you need to create a Galaxy account in the EU mirror https://assembly.usegalaxy.eu/.
 
 ## 1. Get the data
 
